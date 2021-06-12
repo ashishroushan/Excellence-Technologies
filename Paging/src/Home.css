@@ -1,0 +1,19 @@
+.next-button {
+
+    display:flex;
+    margin-top: 2%;
+    margin-left: 50%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgb(33, 33, 224);
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    color: rgb(33, 33, 224);
+    background-color: rgb(230, 252, 252);
+}
+.next-button:hover {
+    border: 2px solid rgb(33, 33, 224) ;
+    box-shadow: .5px 0.5px 3px 0.5px rgb(33, 33, 224) inset,0.5px 0.5px 3px 0.5px rgb(33, 33, 224) ;
+}

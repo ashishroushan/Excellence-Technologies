@@ -1,0 +1,13 @@
+html {
+  position: sticky;
+  display: block;
+  background-image: url(Todo_Image.jpg);
+  background-repeat: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  /* transform: translateY(-%); */
+  height: 50rem;
+  z-index: -100;
+}

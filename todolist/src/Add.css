@@ -1,0 +1,26 @@
+.add-button {
+  border-radius: 10px;
+  border: 2px solid rgb(151, 151, 6);
+  margin-left: 1rem;
+  background-color: rgb(231, 231, 140);
+  padding: 0.5rem;
+  color: rgb(151, 151, 6);
+  letter-spacing: 0.05cm;
+  font-weight: 700;
+}
+.inp {
+  border: 1px solid rgb(206, 206, 123);
+  border-radius: 8px;
+  padding: 0.5rem;
+}
+.inp:hover {
+  border: 2px solid rgb(151, 151, 6);
+}
+.inp:focus {
+  outline: none;
+  border: 2px solid rgb(151, 151, 6);
+}
+::placeholder {
+  color: rgb(161, 153, 153);
+  font-weight: 600;
+}

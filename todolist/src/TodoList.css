@@ -1,0 +1,13 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 10%;
+  margin-left: 40%;
+  background-color: rgb(247, 247, 155);
+  height: auto;
+  width: max-content;
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 2px 2px 10px 3px rgb(206, 206, 123);
+}
